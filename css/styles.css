@@ -30,6 +30,7 @@ p {
     justify-content: center; /* Centra horizontalmente */
     align-items: center; /* Centra verticalmente */
     height: 100vh; /* Establece la altura del contenedor al 100% del viewport */
+    border-radius: 30px;
 }
 
 .contenedor-imagen img {
